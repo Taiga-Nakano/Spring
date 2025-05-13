@@ -9,9 +9,4 @@ public class Practice0201Controller {
 	public String opening(){
 		return "opening";
 	}
-	
-	@RequestMapping("/practice")
-	public String practice() {
-		return "index";
-	}
 }
